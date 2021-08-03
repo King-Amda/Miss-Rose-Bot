@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey there! My name is *{}*, I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+Hey there! My name is *{}*, My Father Is Captain King Amda.. I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 Join my [news channel](https://t.me/ProIndians) to get information on all the latest updates.
 """
 
@@ -29,6 +29,7 @@ I have lots of handy features, such as flood control, a warning system, a note k
 - /start: Starts me! You've probably already used this.
 - /help: Sends this message; I'll tell you more about myself!
 - /donate: Gives you info on how to support me and my creator.
+- /myfather : My Father Is King Amda... Hi Is Busy Now..
 {}
 All commands can be used with the following: / !
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "If you have any bugs or questions on how to use me, have a look at my [Group](https://t.me/ProHelpDesk), or head to @ProIndians.")
