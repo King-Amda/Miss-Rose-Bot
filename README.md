@@ -15,3 +15,11 @@
 ## Profile
 
 ![Rose Profile](https://telegra.ph/file/718d48493d1fb11197d8b.jpg)
+
+## Creator 
+
+[![Damantha Jasinghe](https://github.com/Damantha126.png?size=100)](https://github.com/Damantha126)
+
+## Editor
+
+[![King Amda](https://github.com/King-Amda.png?size=100)](https://github.com/King-Amda)
